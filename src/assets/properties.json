@@ -1,0 +1,131 @@
+{
+  "proprty": [
+    {
+      "id": "1",
+      "forSale": 2,
+      "name": "peasa",
+      "type": "food",
+      "price": 300,
+      "image": "a2"
+    },
+    {
+      "id": "2",
+      "forSale": 2,
+      "name": " laz jac",
+      "type": "close",
+      "price": 2100,
+      "image": "a4"
+    },
+    {
+      "id": "3",
+      "forSale": 1,
+      "name": "sli shoe",
+      "type": "shoes",
+      "price": 200,
+      "image": "a5"
+    },
+    {
+      "id": "4",
+      "forSale": 2,
+      "name": "fur tab",
+      "type": "goods",
+      "price": 5100,
+      "image": "a6"
+    },
+    {
+      "id": "4",
+      "forSale": 2,
+      "name": "fur tab",
+      "type": "goods",
+      "price": 5100,
+      "image": "a6"
+    },
+    {
+      "id": "4",
+      "forSale": 2,
+      "name": "fur tab",
+      "type": "goods",
+      "price": 5100,
+      "image": ""
+    }
+  ],
+  "posts": [
+    {
+      "id": "d75c",
+      "name": "abebe",
+      "email": "abebe@gmal.com",
+      "phone": "087654323",
+      "countryn": "Etiopia",
+      "address": "addis",
+      "term": "yyyg",
+      "gender": "female",
+      "dob": "2001-04-01T21:00:00.000Z",
+      "status": true
+    },
+    {
+      "id": "189a",
+      "name": "abebe",
+      "email": "abebe@gmal.com",
+      "phone": "087654323",
+      "countryn": "Ethiopia",
+      "address": "addis",
+      "term": "yyyg",
+      "gender": "male",
+      "dob": "2001-04-01T21:00:00.000Z",
+      "status": false
+    },
+    {
+      "id": "6d40",
+      "name": "abebe",
+      "email": "abebe@gmal.com",
+      "phone": "087654323",
+      "countryn": "sudan",
+      "address": "addis",
+      "term": "yyyg",
+      "gender": "female",
+      "dob": "2001-04-17T21:00:00.000Z",
+      "status": true
+    },
+    {
+      "id": "6b6a",
+      "name": "abebe",
+      "email": "abebe@gmal.com",
+      "phone": "087654323",
+      "countryn": "usa",
+      "address": "addis",
+      "term": "yyyg",
+      "gender": "female",
+      "dob": "2001-04-01T21:00:00.000Z",
+      "status": true
+    }
+  ],
+  "country": [
+    {
+      "id": "fd0c",
+      "name": "usa",
+      "address": "afrika",
+      "capitalcity": "addis",
+      "population": 200000,
+      "curuntleader": "Abiy",
+      "develstatus": "rich"
+    },
+    {
+      "id": "fd0c",
+      "name": "Ethiopia",
+      "address": "afrika",
+      "capitalcity": "addis",
+      "population": 200000,
+      "curuntleader": "Abiy",
+      "develstatus": "rich"
+    },
+    {
+      "id": "fd0c",
+      "name": "sudan",
+      "address": "afrika",
+      "capitalcity": "addis",
+      "population": 200000,
+      "curuntleader": "Abiy",
+      "develstatus": "rich"
+    }
+  ]
+}

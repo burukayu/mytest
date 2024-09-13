@@ -1,0 +1,50 @@
+
+
+
+<mat-toolbar color="primary" class="mat-elevation-z8">
+    <button (click)="drawer.toggle()"> <mat-icon >menu</mat-icon></button>
+    <span>Develope</span>
+    <span class="example"></span>
+<button mat-button routerLink="home">Home</button>
+<button mat-button [matMenuTriggerFor]="matm">Master</button>
+<mat-menu #matm="matMenu">
+    <button mat-menu-item [matMenuTriggerFor]="campm">Campany</button>
+    <button mat-menu-item routerLink="form">Employee</button>
+</mat-menu>
+<mat-menu #campm="matMenu">
+    <button mat-menu-item>Location</button>
+    <button mat-menu-item>Adminstration</button>
+
+</mat-menu>
+
+<button mat-button routerLink="about">About</button>
+<button mat-button routerLink="body" >Contact</button>
+<button mat-raised-button routerLinlk="list" color="accent">Feed Back</button>
+<button mat-icon-button (click)="Visible()">
+    <mat-icon matBadge="12" matBadgeColor="accent" matBadgeSize="small" [matBadgeHidden]="visivility">notifications </mat-icon>
+</button>
+</mat-toolbar>
+
+<mat-drawer-container autosize>
+    <mat-drawer #drawer opened="false" position="start" mode="side">
+        <mat-nav-list>
+            <mat-list-item>
+                <button mat-button routerLink="card"><mat-icon>dashboard</mat-icon> Dashboard</button>
+            </mat-list-item>
+            <mat-list-item>
+                <button mat-button routerLink="home"><mat-icon>home</mat-icon>Home</button>
+            </mat-list-item>
+            <mat-list-item>
+                <button mat-button> <mat-icon>settings</mat-icon>Setting</button>
+            </mat-list-item>
+            <mat-list-item>
+                <button mat-button><mat-icon>help</mat-icon>Help</button>
+            </mat-list-item>
+        </mat-nav-list>
+    </mat-drawer>
+    <mat-drawer-content>
+        <div style="min-height: 600px; text-align: center;">
+        <router-outlet></router-outlet>
+        </div>
+    </mat-drawer-content>
+</mat-drawer-container>

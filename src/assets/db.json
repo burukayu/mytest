@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "id": "5b47",
+      "name": "abebe",
+      "email": "abebe@gmal.com",
+      "phone": "087654323",
+      "countryn": "usa",
+      "address": "addis",
+      "term": "yyyg",
+      "gender": "female",
+      "dob": "2001-04-01T21:00:00.000Z",
+      "status": true
+    },
+    {
+      "id": "fd0c",
+      "name": "abebe",
+      "email": "abebe@gmal.com",
+      "phone": "087654323",
+      "countryn": "usa",
+      "address": "addis",
+      "term": "yyyg",
+      "gender": "male",
+      "dob": "2001-04-01T21:00:00.000Z",
+      "status": true
+    },
+    {
+      "id": "d75c",
+      "name": "abebe",
+      "email": "abebe@gmal.com",
+      "phone": "087654323",
+      "countryn": "Etiopia",
+      "address": "addis",
+      "term": "yyyg",
+      "gender": "female",
+      "dob": "2001-04-01T21:00:00.000Z",
+      "status": true
+    },
+    {
+      "id": "1f2a",
+      "name": "abebe",
+      "email": "abebe@gmal.com",
+      "phone": "087654323",
+      "countryn": "usa",
+      "address": "addis",
+      "term": "yyyg",
+      "gender": "female",
+      "dob": "2001-04-01T21:00:00.000Z",
+      "status": false
+    },
+    {
+      "id": "58b4",
+      "name": "abebe",
+      "email": "abebe@gmal.com",
+      "phone": "087654323",
+      "countryn": "usa",
+      "address": "addis",
+      "term": "yyyg",
+      "gender": "female",
+      "dob": "2001-04-01T21:00:00.000Z",
+      "status": false
+    },
+    {
+      "id": "ab41",
+      "name": "abebe",
+      "email": "abebe@gmal.com",
+      "phone": "087654323",
+      "countryn": "usa",
+      "address": "addis",
+      "term": "ear",
+      "gender": "female",
+      "dob": "2001-04-01T21:00:00.000Z",
+      "status": true
+    },
+    {
+      "id": "fd7e",
+      "name": "abebe",
+      "email": "abebe@gmal.com",
+      "phone": "087654323",
+      "countryn": "Ethiopia",
+      "address": "addis",
+      "term": "ear",
+      "gender": "female",
+      "dob": "2001-04-01T21:00:00.000Z",
+      "status": true
+    },
+    {
+      "id": "825b",
+      "name": "abebe",
+      "email": "abebe@gmal.com",
+      "phone": "087654323",
+      "countryn": "Ethiopia",
+      "address": "addis",
+      "term": "yyyg",
+      "gender": "female",
+      "dob": "2001-04-01T21:00:00.000Z",
+      "status": false
+    },
+    {
+      "id": "c712",
+      "name": "semere",
+      "email": "abebe@gmal.com",
+      "phone": "087654323",
+      "countryn": "usa",
+      "address": "addis",
+      "term": "yyyg",
+      "gender": "male",
+      "dob": "2001-04-01T21:00:00.000Z",
+      "status": true
+    }
+  ],
+  "country": [
+    {
+      "id": "fd0c",
+      "name": "usa",
+      "address": "afrika",
+      "capitalcity": "addis",
+      "population": 200000,
+      "curuntleader": "Abiy",
+      "develstatus": "rich"
+    },
+    {
+      "id": "fd0c",
+      "name": "Ethiopia",
+      "address": "afrika",
+      "capitalcity": "addis",
+      "population": 200000,
+      "curuntleader": "Abiy",
+      "develstatus": "rich"
+    },
+    {
+      "id": "fd0c",
+      "name": "sudan",
+      "address": "afrika",
+      "capitalcity": "addis",
+      "population": 200000,
+      "curuntleader": "Abiy",
+      "develstatus": "rich"
+    }
+  ]
+}
