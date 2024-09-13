@@ -10,6 +10,7 @@ export class SliderComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    var lmmd="trying is better to understand. but it is hopeless for the first time!"
   }
 
 }

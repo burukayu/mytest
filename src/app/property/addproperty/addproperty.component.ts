@@ -16,12 +16,12 @@ export class AddpropertyComponent implements OnInit {
 
   }
 onBack(){
-  this.ra.navigate(['/body'])
+  this.ra.navigate(['/card'])
 }
 onSubmit(Form:NgForm){
   console.log(Form)
 }
 onConfirm(){
-  this.ra.navigate(["form"])
+  this.ra.navigate(["body"])
 }
 }
